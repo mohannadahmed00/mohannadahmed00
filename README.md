@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2016.<br>📚 I'm currently learning advanced topics in Android.<br>🎯 Goals: learn more about mobile application development and be familiar with everything new.<br>🎲 Fun fact: Zamalek🏹</p>
+<p align="left">✨ Creating bugs since 2016.<br>📚 I'm currently learning advanced topics in Android.<br>🎯 Goals: learn more about mobile application development and be familiar with everything new.<br>🎲 Fun fact: A fan of Zamalek🏹 & Real Madrid👑</p>
 
 ###
 
