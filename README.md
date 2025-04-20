@@ -1,5 +1,5 @@
 <h1 align="center">Mohannad Ahmed</h1>
-<h4 align="center"><i>"Building meaningful experiences, one app at a time."</i></h4>
+<h4 align="center"><i>"Building meaningful experiences, simplify lives and inspire users."</i></h4>
 
 <div style="display: flex; justify-content: center;">
     <p align="center">
