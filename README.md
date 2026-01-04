@@ -1,7 +1,7 @@
 ### 🏆 GitHub Achievements
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pixelh97&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=4"/>
-  <img src="https://raw.githubusercontent.com/PixelHell97/PixelHell97/output/snake.svg" alt="Snake animation" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mohannadahmed00&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=4"/>
+  <img src="https://raw.githubusercontent.com/mohannadahmed00/mohannadahmed00/output/snake.svg" alt="Snake animation" />
 </div>
 
 
