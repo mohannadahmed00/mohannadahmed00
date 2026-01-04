@@ -1,14 +1,12 @@
 ### 🏆 GitHub Achievements
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohannadahmed00&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Pixelh97&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=4"/>
+  <img src="https://raw.githubusercontent.com/PixelHell97/PixelHell97/output/snake.svg" alt="Snake animation" />
 </div>
+
 
 <h1 align="center">Mohannad Ahmed</h1>
 <h4 align="center"><i>"Building meaningful experiences, simplify lives and inspire users."</i></h4>
-  
-  <img src="https://raw.githubusercontent.com/mohannadahmed00/mohannadahmed00/output/snake.svg" alt="Snake animation" />
-</div>
 
 <div style="display: flex; justify-content: center;">
     <p align="center">
