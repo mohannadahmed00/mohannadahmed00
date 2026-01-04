@@ -1,6 +1,22 @@
 <h1 align="center">Mohannad Ahmed</h1>
 <h4 align="center"><i>"Building meaningful experiences, simplify lives and inspire users."</i></h4>
 
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohannadahmed00&show_icons=true&theme=dracula&hide_border=false&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohannadahmed00&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" />
+
+### 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohannadahmed00&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=4"/>
+</div>
+
+  
+  <img src="https://raw.githubusercontent.com/mohannadahmed00/mohannadahmed00/output/snake.svg" alt="Snake animation" />
+</div>
+
 <div style="display: flex; justify-content: center;">
     <p align="center">
     <a href="mailto:mohannad.ahmed.014@gmail.com">
