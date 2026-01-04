@@ -1,9 +1,3 @@
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohannadahmed00&show_icons=true&theme=dracula&hide_border=false&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohannadahmed00&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" />
-
 ### 🏆 GitHub Achievements
 
 <div align="center">
