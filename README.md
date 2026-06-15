@@ -1,132 +1,237 @@
-### 🏆 GitHub Achievements
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohannadahmed00&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=4"/>
-  <img src="https://raw.githubusercontent.com/mohannadahmed00/mohannadahmed00/output/snake.svg" alt="Snake animation" />
-</div>
-
-
 <h1 align="center">Mohannad Ahmed</h1>
-<h4 align="center"><i>"Building meaningful experiences, simplify lives and inspire users."</i></h4>
 
-<div style="display: flex; justify-content: center;">
-    <p align="center">
-    <a href="mailto:mohannad.ahmed.014@gmail.com">
-        <img src="https://img.shields.io/badge/email-e95420?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
-    </a>
-    <a href="https://www.linkedin.com/in/mohannad-ahmed/">
-        <img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-    </a>
-    <a href="https://github.com/mohannadahmed00">
-        <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
-    </a>
-    </p>
-</div>
+<h4 align="center">
+<i>Android Developer passionate about building scalable, high-performance mobile applications that create meaningful user experiences.</i>
+</h4>
 
----
-
-<h1>👨‍💻 About Me</h1>
-
-I’m a passionate Mobile Developer from Cairo, Egypt, with experience building Android (Native) and Flutter applications. I love crafting apps that are clean, scalable, and performance-focused. I’ve worked on apps for medical services, e-learning, travel, and personal productivity. I enjoy turning ideas into real-world products and always strive to write clean, maintainable code using modern tools and architecture patterns.
-
-- Currently working as an **Android Developer at Ayamedica**
-- Focused on Kotlin (Jetpack Compose) and Flutter development
-- Interested in contributing to open-source and collaborative projects
+<p align="center">
+<a href="mailto:mohannad.ahmed.014@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/mohannad-ahmed/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/mohannadahmed00">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 ---
 
-<h1>👨‍💼 Experience</h1>
+# 👨‍💻 About Me
 
-### The Chance – Android Developer Trainee  
-*Remote · 04/2025 – Present*  
-Ranked **#8 out of 200+ mentees** in 3rd week based on technical performance and consistency. Participating in daily squad meetings, technical challenges, and mindset sessions.
+I'm an Android Developer with professional experience building healthcare, research, education, travel, and productivity applications.
 
-### Ayamedica – Android Developer  
-*Cairo · 07/2024 – Present*  
-Developed a smart medical app with EHR integration to connect patients and healthcare providers. Focused on performance and data organization.
+My expertise lies in developing modern Android applications using Kotlin, Jetpack Compose, Clean Architecture, and scalable software design principles. I enjoy transforming complex business requirements into intuitive mobile experiences while maintaining code quality, performance, and maintainability.
 
-### e-RAMO for Digital Solutions – Android Developer  
-*Cairo · 02/2024 – 07/2024*  
-Built an e-learning app with lesson videos, assignments, quizzes, and a parent dashboard. Applied solid architecture patterns for scalability.
+### Highlights
 
-### ITI (Information Technology Institute) – Android Intern  
-*Mansoura · 07/2023 – 11/2023*  
-Completed foundational training in OS, databases, and networking. Developed 5 Android projects.
-
-### Safaria Travel – Android Developer  
-*Remote · 01/2023 – 07/2023*  
-Created a travel app offering diverse trip plans. Worked with Maps, MVVM, and networking using Retrofit.
+* 📱 Android Developer at **METI**
+* 🚀 Former Android Developer at **Ayamedica** and **e-RAMO**
+* 🏆 Promoted to **IC2** at The Chance, mentoring Android developers and leading feature delivery
+* ⚡ Strong focus on Jetpack Compose, Kotlin Multiplatform, Clean Architecture, and modern Android development
+* 🤝 Passionate about collaboration, mentorship, and continuous learning
 
 ---
 
-<h1>🎓 Education</h1>
+# 💼 Professional Experience
 
-| Institution             | Degree                          | Year         |
-|-------------------------|----------------------------------|--------------|
-| Beni Suef University    | B.Sc. in Computer Science        | 2017–2021    |
+## Android Developer | METI
 
----
+**Oct 2025 – Present**
 
-<h1>🛠️ Tech Stack</h1>
-
-
-**Languages:**  
-Java, Kotlin, Dart
-
-**Mobile Frameworks & Tools:**  
-Jetpack Compose, Flutter, Android SDK, XML Layouts, LiveData, ViewModel, Services, Navigation, Notifications
-
-**Architecture & Patterns:**  
-MVVM, MVP, MVI, Clean Architecture, Repository Pattern, SOLID, OOP, Dependency Injection, Modularization
-
-**State Management (Flutter):**  
-Bloc, Provider, Async/Await, FutureBuilder, StreamBuilder
-
-**Networking & Storage:**  
-Retrofit (REST API), Apollo (GraphQL), Ktor, Dio, Room, SQLite, Firestore, Realtime DB
-
-**Modern Tools:**  
-Koin, Dagger Hilt, Coroutines, Flows, WorkManager, JUnit, Maps, AudioPlayer, Firebase Auth
-
-**Other Skills:**  
-Git, GitHub, Agile, Git Flow, Communication, Presentation, Teamwork
+* Contributing to a Canada-based health research platform focused on reducing the sex and gender data gap.
+* Developing features related to hormonal health, cycle tracking, mood monitoring, and sleep analytics.
+* Collaborating with cross-functional teams to improve research data collection and user engagement.
 
 ---
 
-<h1>🚀 Projects</h1>
+## Android Intern (IC2) | The Chance
 
-- [**Quran Page App**](https://github.com/mohannadahmed00/Quran-Page) – Modern Islamic app with recitation, search, and audio playback.  
-- [**Movies App**](https://github.com/mohannadahmed00/movies_app_flutter) – Flutter app for browsing and favoriting movies.  
-- [**Weather Forecast App**](https://github.com/mohannadahmed00/WeatherForecasApp) – Weather tracking and alerts with Jetpack components.  
-- [**Giraffe Chat App**](https://github.com/mohannadahmed00/giraffe-chat) – Realtime Flutter chat app using StreamBuilder.  
-- [**Islamy App**](https://github.com/mohannadahmed00/islamy_app) – Quran, Hadith, Tasbeeh, and localization in Flutter.  
-- [**M-Commerce App**](https://github.com/mohannadahmed00/TripleMApp) – Feature-rich shopping app with maps, payments, and notifications.  
-- [**Food Planner App**](https://github.com/mohannadahmed00/food-planner) – Plan meals for the week with MVP + Room + RxJava.  
-- [**News App**](https://github.com/mohannadahmed00/news_app) – News feed with pagination, categories, and Provider.  
-- [**ToDo App**](https://github.com/mohannadahmed00/Todo-App) – Flutter task manager with themes and Firebase sync.  
-- [**Breast Cancer Detection App**](https://github.com/mohannadahmed00/BreastCancerApp) – Mammogram-based ML analysis using Firebase + Python. 
+**Mar 2025 – Nov 2025**
+
+* Collaborated within multiple cross-functional Android teams in a simulated real-world software environment.
+* Promoted to **IC2**, mentoring four Android developers and supporting feature development across tracks.
+* Participated in sprint planning, refinement sessions, code reviews, and Agile ceremonies.
+* Ranked among the top-performing mentees based on technical contribution and consistency.
 
 ---
 
-<h1>📜 Certifications & Courses</h1>
+## Android Developer | Ayamedica
 
-- [Android Track – ITI](https://drive.google.com/file/d/1UpE-WRWa3UMLhQFSOZ40XwUWPJ9qfFxV/view?usp=sharing)
-- [Android Track – Route Academy](https://drive.google.com/file/d/109H0lRuRL0F-AXeneQkbHsQHVWq1_rWi/view?usp=sharing)
-- [Flutter Track – Route Academy](https://drive.google.com/file/d/1UOYlr4z4RcSn3PusiHPoY4wDsxUMlmGz/view?usp=sharing)
-- [Android Basic Track – Udacity](https://drive.google.com/file/d/1HgsmJeg29ta7tnkItKeC-JE9ZYJKCwP5/view?usp=sharing)  
-- [Java Basic – HackerRank](https://drive.google.com/file/d/19NK0vmQRa_lshkiS2j4O1Iic3Mcops2H/view?usp=sharing)  
-- [Core Java Programming – Mahara-Tech](https://drive.google.com/file/d/1b9OABBWe5yTk29NnHRVdB_lUPTv3pnlb/view?usp=sharing)
-- [Database Fundamentals – Mahara-Tech](https://drive.google.com/file/d/14uIU_5W0LQWq9pvkVuvj06B7HB_ebPv4/view?usp=sharing)
-- [Summer Internship – QNB Alahly](https://drive.google.com/file/d/1n5XpF4md6xYL2ZsdTc5xS4cOIW3q_C4A/view?usp=sharing)  
+**Jul 2024 – Feb 2025**
+
+* Developed healthcare solutions integrating Electronic Health Records (EHR).
+* Improved patient-provider connectivity through secure and scalable mobile experiences.
+* Contributed to app architecture, performance optimization, and feature delivery.
 
 ---
 
-<h1>🌐 Languages</h1>
+## Android Developer | e-RAMO for Digital Solutions
 
-- Arabic: Native  
-- English: Advanced  
+**Feb 2024 – Jul 2024**
+
+* Built an e-learning platform supporting video lessons, quizzes, assignments, teacher materials, and parent monitoring.
+* Implemented scalable architecture patterns and maintained application performance.
 
 ---
 
-<h1>🏁 Let's Connect</h1>
+## Android Developer | Safaria Travel
 
-I’m always open to exciting opportunities and collaborations. Feel free to reach out!
+**Jan 2023 – Jul 2023**
+
+* Developed a travel booking platform serving 1,000+ users.
+* Implemented trip discovery, booking workflows, maps integration, and networking features.
+
+---
+
+# 🛠️ Tech Stack
+
+### Languages
+
+* Kotlin
+* Java
+* Dart
+
+### Android Development
+
+* Jetpack Compose
+* Android SDK
+* XML
+* Kotlin Multiplatform (KMP)
+* Coroutines
+* Flow
+* RxJava
+* WorkManager
+* Services
+* Sensors
+* Maps
+
+### Architecture & Design
+
+* Clean Architecture
+* MVVM
+* MVI
+* MVP
+* SOLID Principles
+* Design Patterns
+* Repository Pattern
+* Modularization
+* Dependency Injection
+
+### Networking & Data
+
+* Retrofit
+* Ktor
+* GraphQL
+* Room Database
+* Firebase
+* REST APIs
+
+### Dependency Injection
+
+* Dagger Hilt
+* Koin
+
+### Testing & Tools
+
+* JUnit
+* Git
+* GitHub
+* Agile Scrum
+* Git Flow
+
+---
+
+# 🚀 Featured Projects
+
+## MENA App – Faith Module
+
+Large-scale super app providing Islamic services and utilities.
+
+### Features
+
+* Quran Reading
+* Prayer Times
+* Qiblah Direction
+* Nearby Mosques
+* Reciter Audio Playback
+
+### Tech Stack
+
+`KMP • Koin • Ktorfit • Coroutines • Clean Architecture • Sensors`
+
+🔗 https://github.com/TheChance101/MENA-mobile
+
+---
+
+## Quran Page App
+
+Modern Quran application optimized for performance and usability.
+
+### Achievements
+
+* Reduced page loading time by approximately 40%.
+* Improved navigation and reading experience.
+
+### Tech Stack
+
+`Compose • Room • Ktor • Coroutines • MVVM • Koin`
+
+🔗 https://github.com/mohannadahmed00/Quran-Page
+
+---
+
+## CineVerse App
+
+Movie and TV discovery application powered by TMDB.
+
+### Features
+
+* Movie & TV Browsing
+* Favorites
+* Offline Storage
+* Modern UI with Compose
+
+### Tech Stack
+
+`Compose • MVI • Retrofit • Room • Coroutines • Clean Architecture`
+
+🔗 https://github.com/Rome-Squad/CineVerse-App
+
+---
+
+# 🎓 Education
+
+### B.Sc. in Computer Science
+
+Faculty of Computers & Artificial Intelligence
+Beni Suef University
+
+**Graduated: 2021**
+
+---
+
+# 📚 Courses & Training
+
+* Software Engineering Training (Android & Kotlin) — The Chance
+* Android Development Track — ITI
+* Android Development Track — Route Academy
+* Flutter Development Track — Route Academy
+* Android Basics — Udacity
+* Summer Internship — QNB Alahly
+
+---
+
+# 🌍 Languages
+
+* Arabic — Native
+* English — Professional Working Proficiency
+
+---
+
+# 🤝 Let's Connect
+
+I'm always interested in collaborating on impactful products, Android development opportunities, and open-source projects.
+
+Feel free to reach out through LinkedIn or GitHub.
