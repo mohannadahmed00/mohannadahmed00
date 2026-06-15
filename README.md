@@ -18,7 +18,7 @@
 
 ---
 
-# 👨‍💻 About Me
+# About Me
 
 I'm an Android Developer with professional experience building healthcare, research, education, travel, and productivity applications.
 
@@ -26,15 +26,15 @@ My expertise lies in developing modern Android applications using Kotlin, Jetpac
 
 ### Highlights
 
-* 📱 Android Developer at **METI**
-* 🚀 Former Android Developer at **Ayamedica** and **e-RAMO**
-* 🏆 Promoted to **IC2** at The Chance, mentoring Android developers and leading feature delivery
-* ⚡ Strong focus on Jetpack Compose, Kotlin Multiplatform, Clean Architecture, and modern Android development
-* 🤝 Passionate about collaboration, mentorship, and continuous learning
+* Android Developer at **METI**
+* Former Android Developer at **Ayamedica** and **e-RAMO**
+* Promoted to **IC2** at The Chance, mentoring Android developers and leading feature delivery
+* Strong focus on Jetpack Compose, Kotlin Multiplatform, Clean Architecture, and modern Android development
+* Passionate about collaboration, mentorship, and continuous learning
 
 ---
 
-# 💼 Professional Experience
+# Professional Experience
 
 ## Android Developer | METI
 
@@ -85,7 +85,7 @@ My expertise lies in developing modern Android applications using Kotlin, Jetpac
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 
 ### Languages
 
@@ -143,7 +143,7 @@ My expertise lies in developing modern Android applications using Kotlin, Jetpac
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
 ## MENA App – Faith Module
 
@@ -201,7 +201,7 @@ Movie and TV discovery application powered by TMDB.
 
 ---
 
-# 🎓 Education
+# Education
 
 ### B.Sc. in Computer Science
 
@@ -212,7 +212,7 @@ Beni Suef University
 
 ---
 
-# 📚 Courses & Training
+# Courses & Training
 
 * Software Engineering Training (Android & Kotlin) — The Chance
 * Android Development Track — ITI
@@ -223,14 +223,14 @@ Beni Suef University
 
 ---
 
-# 🌍 Languages
+# Languages
 
 * Arabic — Native
 * English — Professional Working Proficiency
 
 ---
 
-# 🤝 Let's Connect
+# Let's Connect
 
 I'm always interested in collaborating on impactful products, Android development opportunities, and open-source projects.
 
